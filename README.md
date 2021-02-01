@@ -15,3 +15,14 @@ Long-grained rice (like basmati) flavored with fragrant spices such as saffron a
 4. Select the course you want to register
 5. Click on register
 
+---
+# Shopping in Mall
+   * Go to the shopping mall
+   * Select store
+       * Clothes
+       * Cosmetics 
+       * Home Decor
+       * Daily essentials
+       * Electronics
+    * Pay Bill
+    * Return Back
