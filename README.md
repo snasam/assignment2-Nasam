@@ -41,6 +41,6 @@ The table consists of places to be visited in **US**.It contains location of the
  
 ----
 # Inspiring Quotes
-> You learn more from failure than from success.
+> The Best Way To Get Started Is To Quit Talking And Begin Doing. – *Walt Disney*
 > 
-> Whether You Think You Can Or Think You Can’t, You’re Right.
+> Don’t Let Yesterday Take Up Too Much Of Today. – *Will Rogers*
