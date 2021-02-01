@@ -17,12 +17,12 @@ Long-grained rice (like basmati) flavored with fragrant spices such as saffron a
 
 ---
 # Shopping in Mall
-   * Go to the shopping mall
-   * Select store
+* Go to the shopping mall
+* Select store
        * Clothes
        * Cosmetics 
        * Home Decor
        * Daily essentials
        * Electronics
-    * Pay Bill
-    * Return Back
+* Pay Bill
+* Return Back
