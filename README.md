@@ -44,3 +44,25 @@ The table consists of places to be visited in **US**.It contains location of the
 > The Best Way To Get Started Is To Quit Talking And Begin Doing. – *Walt Disney*
 > 
 > Don’t Let Yesterday Take Up Too Much Of Today. – *Will Rogers*
+
+---
+# C
+> C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.<https://en.wikipedia.org/wiki/C_(programming_language)>
+```
+#include <stdio.h>
+int main() {    
+
+    int number1, number2, sum;
+    
+    printf("Enter two integers: ");
+    scanf("%d %d", &number1, &number2);
+
+    // calculating sum
+    sum = number1 + number2;      
+    
+    printf("%d + %d = %d", number1, number2, sum);
+    return 0;
+}
+```
+[link for code source]<https://www.programiz.com/c-programming/examples/add-numbers>
+
