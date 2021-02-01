@@ -38,3 +38,8 @@ The table consists of places to be visited in **US**.It contains location of the
 | Glacier National Park | 7 | 500|
 | Maui | 9 | 200|
 | Yosemite | 6 | 600 |
+ 
+----
+# Inspiring Quotes
+> You learn more from failure than from success.
+> Whether You Think You Can Or Think You Can’t, You’re Right.
