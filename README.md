@@ -67,9 +67,9 @@ int main() {
 [link for code source]<https://www.programiz.com/c-programming/examples/add-numbers>
 
 ### Bonus
-![Grand Canyon](\Images\GlacierNatioanlPark.jpg)
-![GlacierNationalPark](\Images\GlacierNatioanlPark.jpg)
-![Maui](\Images\Maui.jpg)
-![Yosemite](\Images\Yosemite.jpg)
+![Grand Canyon](/Images\GlacierNatioanlPark.jpg)
+![GlacierNationalPark](/Images\GlacierNatioanlPark.jpg)
+![Maui](/Images\Maui.jpg)
+![Yosemite](/Images\Yosemite.jpg)
 
 
