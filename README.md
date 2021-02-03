@@ -68,8 +68,8 @@ int main() {
 
 ### Bonus
 ![Grand Canyon](\Images\GlacierNatioanlPark.jpg)
-![GlacierNationalPark](Images\GlacierNatioanlPark.jpg)
-![Maui](Images\Maui.jpg)
-![Yosemite](Images\Yosemite.jpg)
+![GlacierNationalPark](\Images\GlacierNatioanlPark.jpg)
+![Maui](\Images\Maui.jpg)
+![Yosemite](\Images\Yosemite.jpg)
 
 
